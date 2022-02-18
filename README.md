@@ -2,9 +2,7 @@
 This repository contains the underlying code for the paper "Monitoring Global Development Aid with Machine Learning" by Toetzke, M.; N. Banholzer; and S. Feuerriegel.
 
 
-# Categorization of Development Aid Projects from the Creditor Reporting System Database (CRS) of the Organization of Cooperation and Development (OECD)
-Embedding of textual project descriptions from the CRS database.
-
+# Categorization of Development Aid Activities via textual descriptions using document embedding and clustering
 Includes preprocessing of texts, training of Paragraph Vector model and clustering of resulting document vectors.
 
 # Requirements #
