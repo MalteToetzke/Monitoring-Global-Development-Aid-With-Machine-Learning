@@ -8,14 +8,12 @@ Embedding of textual project descriptions from the CRS database.
 Includes preprocessing of texts, training of Paragraph Vector model and clustering of resulting document vectors.
 
 # Requirements #
-# pandas ==0.25.1
-# numpy ==1.15.4
-# spacy >=2.2.1
-# spacy-langdetect >=0.1.2
-# nltk >=3.4.5
-# scikit-learn >=0.21.3
-# gensim >=3.8.0
-# spacy-langdetect ==0.1.2
+pandas ==0.25.1
+numpy ==1.15.4
+spacy >=2.2.1
+nltk >=3.4.5
+scikit-learn >=0.21.3
+gensim >=3.8.0
 
 # Usage #
 Run scripts in the following order:__
