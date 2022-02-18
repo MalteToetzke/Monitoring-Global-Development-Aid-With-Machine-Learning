@@ -2,7 +2,7 @@
 This repository contains the underlying code for the paper "Monitoring Global Development Aid with Machine Learning" by Toetzke, M.; N. Banholzer; and S. Feuerriegel.
 
 
-# Unsupervised categorization of Development Aid Activities based on their textual descriptions using document embedding and clustering
+## Unsupervised categorization of Development Aid Activities based on their textual descriptions using document embedding and clustering
 Includes preprocessing of texts, training of Paragraph Vector model and clustering of resulting document vectors.
 
 # Requirements #
