@@ -8,15 +8,15 @@ This repository contains the underlying code for the paper "Monitoring Global De
 Includes preprocessing of texts, training of Paragraph Vector model and clustering of resulting document vectors.
 
 ### Requirements #
-pandas ==0.25.1
-numpy ==1.15.4
-spacy >=2.2.1
-nltk >=3.4.5
-scikit-learn >=0.21.3
-gensim >=3.8.0
+pandas ==0.25.1#
+numpy ==1.15.4#
+spacy >=2.2.1#
+nltk >=3.4.5#
+scikit-learn >=0.21.3#
+gensim >=3.8.0#
 
 ### Usage #
-Run scripts in the following order:__
+Run scripts in the following order:
 
 Preprocessing
 * word_preprocess.py (Preprocessing of texts using stopword removal, lowercasing, lemmatization)
@@ -33,4 +33,5 @@ Clustering
 * Cluster_topic (Compute tf-idf weights for all words in cluster, derive 20 words with highest tf-idf for each cluster)
 * Backmapping_clusters.py (Map clusters to aid activities)
 
-## Data: Data to perform analyses on development aid activities across topics, time, and recipient countries 
+## Data: 
+Data to perform analyses on development aid activities across topics, time, and recipient countries 
